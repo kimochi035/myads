@@ -1,1 +1,109 @@
-ads
+[Fuck ADS]
+! Homepage: fb.com/Sality.AT
+! Title: Fuck ADS
+! Expires: 1 days
+! Version: 1.2.8.6
+! Last modified: 28/12/17
+! My ADS
+! =====================================Orther============================================
+baomoi.com##div.wrapper.category_page:nth-child(2) > div.main-content:nth-child(3) > div.l-grid:last-child > div.l-grid__sub:last-child > div.sidebar > div.fyi--group:first-child
+baomoi.com###BaoMoi_R3
+sendo.vn##div.float-banner-ev-bottom:nth-child(93)
+sendo.vn###content > div.container:nth-child(2) > div.col-right.r-home:first-child > div.sieu-cho-sendo-right:nth-child(3)
+internetvnpthcm.com##div.master-wrapper-content:first-child > div.container:last-child > div.master-wrapper-page > div.row:first-child > div.col-xs-12.col-sm-12.col-md-4.col-lg-4:last-child > div.row:last-child > div.col-xs-12.col-sm-6.col-md-12.col-lg-12:first-child > div.topic-html-content:last-child > div.topic-html-content-body > div.block.block-manufacturer-navigation:last-child > div.listbox:last-child
+keonhacai.com##div.page_bg:nth-child(4) > div.header:first-child > div.logo:first-child
+vnexpress.net##section.container:nth-child(7) > section.sidebar_home_2:nth-child(2) > section.block_banner.clearfix:nth-child(12) > section.box_category.box_100.left.clearfix:first-child
+ve-porn.net###player > div.right:last-child > div.box.info:first-child
+ve-porn.net##div.sidebar-social:nth-child(5)
+javhihi.com###player > div.player-ads-bottom:last-child
+hdonline.vn##div.tn-wrapper:first-child > div.tn-main-full:nth-child(2) > div.tn-playerdv:nth-child(5) > div.tn-wrapfix.playerdv-in > div.tn-lockup-title:first-child > div.socialTitle:last-child
+hdonline.vn##div.tn-wrapper:first-child > div.tn-main-full:nth-child(2) > div.tn-playerdv:nth-child(5) > div.tn-wrapfix.playerdv-in > div.tn-lockup-title:first-child > div.socialTitle:last-child
+hdonline.vn###popup-promotion-vip
+hdonline.vn##div.tn-wrapper:first-child > div.tn-main-full:nth-child(2) > div.tn-playerdv:nth-child(5) > div.tn-wrapfix.playerdv-in > div.tn-lockup-title:first-child > div.socialTitle:last-child
+tructiepbongda.com###smartBanner
+keonhacai.com##div.page_bg:nth-child(4) > div.header:first-child > div.leaderboard_banner:last-child
+techrum.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section.widget-single:nth-child(9)
+techrum.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section.widget-single:nth-child(8)
+matxac.com###sidebar > img:nth-child(3)
+matxac.com###fbLikeBox
+||admicro.vn/*
+media1.admicro.vn/*
+||media1.admicro.vn/*
+adi.admicro.vn/*
+api.adtimaserver.vn/*
+api.*
+/api.*
+adi.*
+/adi.*
+sb.*
+log.*
+/core.*
+||b.scorecardresearch.com/*
+||mobilead.vn/*
+lg1.*
+||lg1.logging.admicro.vn/*
+DIV#admTopBan_25832
+DIV#admTopBan_*
+DIV#admTopBan*
+#admTopBan_*
+#admTopBan*
+DIV#ban-top-site
+DIV#*
+*.admicro.vn##div*
+*.admicro.vn##div_*
+DIV#admTopBan_25832
+mobilead.vn##DIV > admTopBan_25832
+###admTopBan
+##admTopBan
+m.*###admTopBan_*
+m.*##admTopBan_*
+m.*###admTopBan_*
+m.*##admTopBan_*
+/cms*
+/adt*
+/pcs*
+||googleads.g.doubleclick.net/*
+||lg1.logging.admicro.vn/*/mobile_banner/*
+||lg1.logging.admicro.vn/*/DAdmicro/*
+m.youtube.com###koya_child_7 > div.gn.qm.jjb
+m.youtube.com###koya_child_233 > div.gn.qm.jjb
+m.youtube.com###koya_child_146
+adi.admicro.vn/adt/cpc/tvcads/files/others/player/pluginadmicro/pluginAdmicro.js?r=1514467655891
+||adi.admicro.vn/adt/*
+||api.kinghub.vn/*.mp4
+||media1.admicro.vn/core/admcore.js
+||b.scorecardresearch.com/beacon.js
+||b.scorecardresearch.com/*
+||cmsanalytics.admicro.vn/cms/gamek.vn/*
+||cmsanalytics.admicro.vn/cms/genk.vn/*
+||cmsanalytics.admicro.vn/cms/*
+||log.news.zing.vn/*
+||api.news.zing.vn/api/*
+||api.news.zing.vn/*
+||sb.scorecardresearch.com/beacon.js
+||sb.scorecardresearch.com/*
+||media1.admicro.vn/core/*
+||thongke.24h.com.vn/24h-analytics/*
+||thongke.24h.com.vn/*
+m.baomoi.com##div.wrapper.homepage_page:first-child > div.footer:last-child > div.download-app.anchor:first-child
+m.baomoi.com##div.wrapper.homepage_page:first-child > div.main-content:nth-child(6) > div.l-grid > div.timeline.loadmore:first-child > div.fyi--300.nocontent.robots-nocontent:nth-child(11)
+m.baomoi.com##div.wrapper.homepage_page:first-child > div.main-content:nth-child(6) > div.l-grid > div.timeline.loadmore:first-child > div.fyi--300.nocontent.robots-nocontent:nth-child(23)
+m.baomoi.com##div.wrapper.homepage_page:first-child > div.main-content:nth-child(6) > div.l-grid > div.timeline.loadmore:first-child > div.fyi--300.nocontent.robots-nocontent:nth-child(35)
+m.baomoi.com##div.wrapper.homepage_page:first-child > div.main-content:nth-child(6) > div.l-grid > div.timeline.loadmore:first-child > div.fyi--300.nocontent.robots-nocontent:nth-child(46)
+m.genk.vn###ban-top-site
+m.gamek.vn###ban-top-site
+m.vnreview.vn###div-gpt-ad-1484294593647-0
+vnexpress.net###cpx_ads_frame_1_ins
+vnexpress.net###eclick_ads_frame3_ins
+vnexpress.net###box_qua_tang_vne > div.inner_section-egift:last-child > div.item_big:first-child
+vnexpress.net###eclick_ads_frame4_ins
+m.dantri.com.vn###ban-top-site
+m.genk.vn###adm_zone477511_banner > div.class_sponsor477511_content
+gamek.vn###admWrapsite > div.wp1000.wfull:nth-child(3) > div.wp1000:nth-child(4) > div.topbanner
+gamek.vn###admWrapsite > div.wp1000.wfull:nth-child(3) > div.content:nth-child(5) > div.contentright.adm-rightsection:nth-child(2)
+m.gamek.vn###sponsorzone_15552_fullscreen
+m.gamek.vn###sponsorzone_15551_fullscreen
+m.soha.vn###adm_zone7300
+! ==========================Quang Cao Binh Thuong========================================
+###ban-top-site
+###TOP_BANNER
