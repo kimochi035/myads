@@ -1,31 +1,11 @@
 [Fuck ADS]
 ! Homepage: fb.com/Sality.AT
-! Title: Fuck ADS
+! Title: ADSX
 ! Expires: 1 days
-! Version: 1.2.8.6
+! Version: 1.0
 ! Last modified: 28/12/17
 ! My ADS
 ! =====================================Orther============================================
-baomoi.com##div.wrapper.category_page:nth-child(2) > div.main-content:nth-child(3) > div.l-grid:last-child > div.l-grid__sub:last-child > div.sidebar > div.fyi--group:first-child
-baomoi.com###BaoMoi_R3
-sendo.vn##div.float-banner-ev-bottom:nth-child(93)
-sendo.vn###content > div.container:nth-child(2) > div.col-right.r-home:first-child > div.sieu-cho-sendo-right:nth-child(3)
-internetvnpthcm.com##div.master-wrapper-content:first-child > div.container:last-child > div.master-wrapper-page > div.row:first-child > div.col-xs-12.col-sm-12.col-md-4.col-lg-4:last-child > div.row:last-child > div.col-xs-12.col-sm-6.col-md-12.col-lg-12:first-child > div.topic-html-content:last-child > div.topic-html-content-body > div.block.block-manufacturer-navigation:last-child > div.listbox:last-child
-keonhacai.com##div.page_bg:nth-child(4) > div.header:first-child > div.logo:first-child
-vnexpress.net##section.container:nth-child(7) > section.sidebar_home_2:nth-child(2) > section.block_banner.clearfix:nth-child(12) > section.box_category.box_100.left.clearfix:first-child
-ve-porn.net###player > div.right:last-child > div.box.info:first-child
-ve-porn.net##div.sidebar-social:nth-child(5)
-javhihi.com###player > div.player-ads-bottom:last-child
-hdonline.vn##div.tn-wrapper:first-child > div.tn-main-full:nth-child(2) > div.tn-playerdv:nth-child(5) > div.tn-wrapfix.playerdv-in > div.tn-lockup-title:first-child > div.socialTitle:last-child
-hdonline.vn##div.tn-wrapper:first-child > div.tn-main-full:nth-child(2) > div.tn-playerdv:nth-child(5) > div.tn-wrapfix.playerdv-in > div.tn-lockup-title:first-child > div.socialTitle:last-child
-hdonline.vn###popup-promotion-vip
-hdonline.vn##div.tn-wrapper:first-child > div.tn-main-full:nth-child(2) > div.tn-playerdv:nth-child(5) > div.tn-wrapfix.playerdv-in > div.tn-lockup-title:first-child > div.socialTitle:last-child
-tructiepbongda.com###smartBanner
-keonhacai.com##div.page_bg:nth-child(4) > div.header:first-child > div.leaderboard_banner:last-child
-techrum.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section.widget-single:nth-child(9)
-techrum.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section.widget-single:nth-child(8)
-matxac.com###sidebar > img:nth-child(3)
-matxac.com###fbLikeBox
 ||admicro.vn/*
 media1.admicro.vn/*
 ||media1.admicro.vn/*
