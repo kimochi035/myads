@@ -43,22 +43,9 @@ log.*
 lg1.*
 ||lg1.logging.admicro.vn/*
 DIV#admTopBan_25832
-DIV#admTopBan_*
-DIV#admTopBan*
-#admTopBan_*
-#admTopBan*
-DIV#ban-top-site
-DIV#*
-*.admicro.vn##div*
-*.admicro.vn##div_*
-DIV#admTopBan_25832
 mobilead.vn##DIV > admTopBan_25832
 ###admTopBan
 ##admTopBan
-m.*###admTopBan_*
-m.*##admTopBan_*
-m.*###admTopBan_*
-m.*##admTopBan_*
 /cms*
 /adt*
 /pcs*
